@@ -1,0 +1,19 @@
+技术栈：
+- 编程语言：Python（精通），JavaScript（熟练），SQL（熟练）
+- 后端框架：Django（精通），Flask（熟练），FastAPI（了解）
+- 前端技术：HTML/CSS，React（基础），Vue.js（了解）
+- 数据库：PostgreSQL，MySQL，MongoDB
+- 云服务：AWS（EC2, S3, Lambda），Docker
+- 其他工具：Git，Linux，CI/CD（GitHub Actions）
+
+工作经验：
+- 3年Python后端开发经验
+- 2年Django框架使用经验
+- 参与过2个大型Web应用开发
+- 有微服务架构设计经验
+
+软技能：
+- 良好的团队协作能力
+- 较强的问题解决能力
+- 英语读写能力良好
+- 有敏捷开发经验
